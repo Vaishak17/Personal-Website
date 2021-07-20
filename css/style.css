@@ -398,7 +398,7 @@ li > a:only-child:after { content: ''; }
 /*-- main --*/
 .main {
 	background: url(../images/_DSC0002.jpg) no-repeat center;
-    color: #3369e7;
+    color: #636363;
     border-radius: 0.25em;
 }
 .advantage_left h4 {
